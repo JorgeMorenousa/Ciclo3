@@ -28,3 +28,4 @@ console.log(time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds())
 
 //ejemplo para validar un correo https://www.hostinger.co/tutoriales/insertar-javascript-en-html/  otro ejemplo https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
+//IMPORTANTE: https://lenguajejs.com/javascript/dom/que-es/
